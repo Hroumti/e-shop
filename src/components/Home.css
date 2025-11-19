@@ -16,6 +16,8 @@
   padding: 1rem 0;
   cursor: pointer;
   transition: opacity 0.2s;
+  text-decoration: none;
+  color: inherit;
 }
 
 .nav-item:hover {

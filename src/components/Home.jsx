@@ -9,12 +9,12 @@ function Home() {
       {/* Navigation */}
       <nav className="navigation">
         <div className="nav-container">
+          <a href="/products" className="nav-item">ALL PRODUCTS</a>
           <div className="nav-item">CATEGORY 1</div>
           <div className="nav-item">CATEGORY 2</div>
           <div className="nav-item">CATEGORY 3</div>
           <div className="nav-item">CATEGORY 4</div>
           <div className="nav-item">CATEGORY 5</div>
-          <div className="nav-item">CATEGORY 6</div>
         </div>
       </nav>
 
